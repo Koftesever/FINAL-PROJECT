@@ -1,0 +1,17 @@
+m7/diary.db
+m7/Pipfile.lock
+m7/main.py
+m7/Pipfile
+m7/__pycache__/main.cpython-311.pyc
+m7/__pycache__/speech_recog.cpython-312.pyc
+m7/static/img/login.svg
+m7/static/img/logo.svg
+m7/static/img/plus.svg
+m7/static/img/post_icon.png
+m7/static/img/css/style.css
+m7/templates/card.html
+m7/templates/create_card.html
+m7/templates/index.html
+m7/templates/login.html
+m7/templates/registration.html
+m7/speech_recog.py
