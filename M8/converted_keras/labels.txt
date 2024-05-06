@@ -1,0 +1,2 @@
+0 non-messy room
+1 messy room
