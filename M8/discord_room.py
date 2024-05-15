@@ -19,4 +19,4 @@ async def hello(ctx):
 async def room_check(ctx):
     await ctx.send("Odanın fotografını yolla!")
 
-bot.run("MTIyMjU4NDAzNzcwNTc4MTM0MA.GK9ZX1.xkT8m_sfrofW59rove3GzQ2frbdzJLKMcSDzvA")
+bot.run("token")
